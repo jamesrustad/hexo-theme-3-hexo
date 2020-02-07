@@ -14,20 +14,20 @@ link:
     rss: /atom.xml
     github: https://github.com/yelog
     facebook: https://www.facebook.com/faker.tops
-    twitter:
-    linkedin:
-    instagram: https://www.facebook.com/faker.tops
-    reddit: https://www.reddit.com/user/yelog/
-    weibo: http://weibo.com/u/2307534817
-    jianshu: https://www.jianshu.com/u/ff56736de7cf
-    zhihu: https://www.zhihu.com/people/jaytp/activities
+    twitter: https://twitter.com
+    linkedin: https://linkedin.com
+    instagram: 
+    reddit: 
+    weibo: 
+    jianshu: 
+    zhihu: 
     csdn:
-    oschina: https://my.oschina.net/yelog
+    oschina: 
     juejin:
     email: jaytp@qq.com
-    qq: 872336115
-    kugou: https://www.kugou.com/
-    neteasemusic: https://music.163.com/#/user/home?id=88151013
+    qq: 
+    kugou: 
+    neteasemusic: 
 
 ##########多作者模式############
 author:
@@ -74,13 +74,13 @@ menu:
       type: 3  # 跳转类型 3：打开新的tab页
 
 # 文末声明
-article_txt: 转载请注明来源，欢迎对文章中的引用来源进行考证，欢迎指出任何有错误或不够清晰的表达。可以在下面评论区评论，也可以邮件至 jaytp@qq.com
+article_txt: For any questions, please send a DM to my twitter account
 
 bottom_text: ©2016-2019 Yelog
 # 自定义页面最下方的站点版权信息
 # 如果不填，则自定义为 ©2017 author (这个author为hexo根目录_config.yml中配置的)
 
-reward: true
+reward: false
 # true 开启打赏功能
 
 searchAll: false
