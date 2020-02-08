@@ -12,10 +12,10 @@ link:
   theme: color # 链接样式，color: 彩色图标  white: 黑白图标
   items:
     rss: /atom.xml
-    github: https://github.com/yelog
-    facebook: https://www.facebook.com/faker.tops
-    twitter: https://twitter.com
-    linkedin: https://linkedin.com
+    github: http://bit.ly/luay-dev-github
+    facebook: http://bit.ly/luay-dev-facebook
+    twitter: http://bit.ly/luay-dev-twitter
+    linkedin: http://bit.ly/luay-dev-linkedin
     instagram: 
     reddit: 
     weibo: 
@@ -24,7 +24,7 @@ link:
     csdn:
     oschina: 
     juejin:
-    email: jaytp@qq.com
+    email: 
     qq: 
     kugou: 
     neteasemusic: 
@@ -93,7 +93,7 @@ searchAll: false
 #   field: post
 
 
-copyright: true
+copyright: false
 # Copyright info. of post | 文末版权信息
 
 word_count: false
