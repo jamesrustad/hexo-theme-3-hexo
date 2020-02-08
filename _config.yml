@@ -9,7 +9,7 @@ blog_path: /
 
 #链接图标 显示顺序和下面顺序一致
 link:
-  theme: color # 链接样式，color: 彩色图标  white: 黑白图标
+  theme: white # 链接样式，color: 彩色图标  white: 黑白图标
   items:
     rss: /atom.xml
     github: http://bit.ly/luay-dev-github
@@ -76,7 +76,7 @@ menu:
 # 文末声明
 article_txt: For any questions, please send a DM to my twitter account
 
-bottom_text: ©2016-2019 Yelog
+bottom_text: ©2020 Mohamed Luay
 # 自定义页面最下方的站点版权信息
 # 如果不填，则自定义为 ©2017 author (这个author为hexo根目录_config.yml中配置的)
 
@@ -118,13 +118,13 @@ article_list:
   title: '#383636' # 文章列表标题颜色
   datetime: '#5e5e5f' # 文章发布日期颜色
   hover:
-    background: '#e2e0e0'  # 背景色:提供几种：'#c1bfc1'  '#fbf4a8'
-    color:     # 文字颜色 提供几种：'#ffffff'
+    background: 'orange'  # 背景色:提供几种：'#c1bfc1'  '#fbf4a8'
+    color: color # 文字颜色 提供几种：'#ffffff'
 # 注意：由于颜色如果包含#，使用单引号 ' 引起来
 
 # 文章列表背景图
 article_bg_img:
-  on: true # 是否开启
+  on: false # 是否开启
   src: https://i.loli.net/2019/07/22/5d3521411f3f169375.png
   opacity: 0.3 # 背景图透明度，范围 0 ～ 1
 
